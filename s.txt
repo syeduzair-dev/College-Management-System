@@ -1,0 +1,260 @@
+Voucher Number: 1013
+
+Eng: 7
+
+Med: 5
+
+CS: 3
+
+			* * * * STUDENT DETAILS * * * *
+
+Student ID: ENG11-5
+Name: uzair
+Password: uzair$123
+Father's Name: Arshad Khan
+Gender: Male
+Address: Karachi
+Contact: 03342987234
+Class: 11
+CNIC: 42501-6789023-1
+Matric Percentage: 88
+Matriculation Status: Science
+Selected Department: Pre-Engineering
+Admission Status: Eligible
+Fee Status: Paid
+Unique Bill: 1005
+Intermediate Certificate: false
+Attendance:
+	Date: 2025-01-09 | Status: P
+	Date: 2025-01-10 | Status: P
+Course 11:
+	DSA | Marks: 90
+	Computer network | Marks: 89
+	DLD | Marks: 78
+	Ai | Marks: 67
+	information security | Marks: 87
+
+
+Student ID: MED11-4
+Name: haseeb
+Password: haseeb$123
+Father's Name: Malik Ahmed
+Gender: Female
+Address: Karachi
+Contact: 03351034782
+Class: 11
+CNIC: 42501-7629341-5
+Matric Percentage: 90
+Matriculation Status: Biology
+Selected Department: Pre-Medical
+Admission Status: Eligible
+Fee Status: Not paid 
+Unique Bill: 1009
+Intermediate Certificate: false
+Attendance:
+Course 11:
+	No courses available.
+
+
+Student ID: MED11-2
+Name: wildan
+Password: wildan$123
+Father's Name: Abdul Sheikh
+Gender: Female
+Address: Karachi
+Contact: 03341987834
+Class: 11
+CNIC: 42501-5678923-2
+Matric Percentage: 92
+Matriculation Status: Biology
+Selected Department: Pre-Medical
+Admission Status: Eligible
+Fee Status: Paid
+Unique Bill: 1007
+Intermediate Certificate: false
+Attendance:
+Course 11:
+	Zoology | Marks: 90
+	Botany | Marks: 99
+	Microbiology | Marks: 88
+	Genetics | Marks: 99
+	Ecology | Marks: 88
+
+
+Student ID: MED11-3
+Name: Hassan
+Password: hassan$123
+Father's Name: Rizwan
+Gender: Male
+Address: Karachi
+Contact: 03362057893
+Class: 11
+CNIC: 42501-8975432-1
+Matric Percentage: 87
+Matriculation Status: Biology
+Selected Department: Pre-Medical
+Admission Status: Eligible
+Fee Status: Paid
+Unique Bill: 1008
+Intermediate Certificate: false
+Attendance:
+	Date: 2025-01-09 | Status: A
+	Date: 2025-01-10 | Status: P
+Course 11:
+	Zoology | Marks: 88
+	Botany | Marks: 88
+	Microbiology | Marks: 77
+	Genetics | Marks: 88
+	Ecology | Marks: 77
+
+
+Student ID: ENG11-3
+Name: Hassan
+Password: hassan$123
+Father's Name: Javed Iqbal
+Gender: Male
+Address: Karachi
+Contact: 03362678901
+Class: 11
+CNIC: 42501-8976543-2
+Matric Percentage: 85
+Matriculation Status: Science
+Selected Department: Pre-Engineering
+Admission Status: Eligible
+Fee Status: Paid
+Unique Bill: 1003
+Intermediate Certificate: false
+Attendance:
+	Date: 2025-01-09 | Status: P
+	Date: 2025-01-10 | Status: p
+Course 11:
+	DSA | Marks: 87
+	Computer network | Marks: 87
+	DLD | Marks: 87
+	Ai | Marks: 66
+	information security | Marks: 88
+
+
+Student ID: ENG11-2
+Name: Maryam
+Password: maryam$123
+Father's Name: Akhtar Hussain
+Gender: Female
+Address: Karachi
+Contact: 03352147896
+Class: 11
+CNIC: 42501-3456789-7
+Matric Percentage: 89
+Matriculation Status: Science
+Selected Department: Pre-Engineering
+Admission Status: Eligible
+Fee Status: Not paid 
+Unique Bill: 1002
+Intermediate Certificate: false
+Attendance:
+	Date: 2025-01-09 | Status: p
+	Date: 2025-01-10 | Status: p
+Course 11:
+	No courses available.
+
+
+Student ID: ENG11-4
+Name: Sara
+Password: hassan$123
+Father's Name: Imran Ali
+Gender: Female
+Address: Karachi
+Contact: 03331547890
+Class: 11
+CNIC: 42501-1345678-9
+Matric Percentage: 92
+Matriculation Status: Science
+Selected Department: Pre-Engineering
+Admission Status: Eligible
+Fee Status: Not paid 
+Unique Bill: 1004
+Intermediate Certificate: false
+Attendance:
+	Date: 2025-01-09 | Status: p
+	Date: 2025-01-10 | Status: p
+Course 11:
+	No courses available.
+
+
+Student ID: MED11-1
+Name: Zain
+Password: zain$123
+Father's Name: Ali Nawaz
+Gender: Male
+Address: Karachi
+Contact: 03321547901
+Class: 11
+CNIC: 42501-1356790-4
+Matric Percentage: 89
+Matriculation Status: Biology
+Selected Department: Pre-Medical
+Admission Status: Eligible
+Fee Status: Not paid 
+Unique Bill: 1006
+Intermediate Certificate: false
+Attendance:
+	Date: 2025-01-09 | Status: P
+	Date: 2025-01-10 | Status: p
+Course 11:
+	No courses available.
+
+
+Student ID: ENG11-1
+Name: Zubair
+Password: zubairl$123
+Father's Name: Ahmed Nawaz
+Gender: Male
+Address: Karachi
+Contact: 03351023784
+Class: 11
+CNIC: 42501-7654321-4
+Matric Percentage: 87
+Matriculation Status: Science
+Selected Department: Pre-Engineering
+Admission Status: Eligible
+Fee Status: Paid
+Unique Bill: 1001
+Intermediate Certificate: false
+Attendance:
+	Date: 2025-01-09 | Status: P
+	Date: 2025-01-10 | Status: A
+Course 11:
+	DSA | Marks: 77
+	Computer network | Marks: 88
+	DLD | Marks: 77
+	Ai | Marks: 66
+	information security | Marks: 88
+
+
+Student ID: CS11-2
+Name: Farooq
+Password: farooq$123
+Father's Name: qadir
+Gender: Male
+Address: 5455
+Contact: 0543543
+Class: 11
+CNIC: 42501-9876512-4
+Matric Percentage: 89
+Matriculation Status: Science
+Selected Department: Computer Science
+Admission Status: Eligible
+Fee Status: Paid
+Unique Bill: 1011
+Intermediate Certificate: false
+Attendance:
+	Date: 2025-01-09 | Status: p
+	Date: 2025-01-10 | Status: A
+Course 11:
+	Linear algebra | Marks: 90
+	OOP | Marks: 88
+	DLD | Marks: 77
+	ICt | Marks: 88
+	software engineering | Marks: 77
+
+

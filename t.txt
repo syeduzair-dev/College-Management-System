@@ -1,0 +1,87 @@
+					* * * * TEACHER DETAILS * * * *
+
+Teacher ID: 1
+Name: Syed Ali
+Password: Syed Ali$123
+Gender: Male
+DOB: 23-02-2005
+Marital Status:Unmarried
+Email :syedali@email.com
+Date of Joining: 23-02-2005
+Contact: 03352752985
+Address: Block 12, Korangi, Karachi
+Salary: 50000.0
+Skills: Programming, Web Development
+Experience: 10 years
+Highest Qualification: Masters in Computer Science
+Specialization: Software Development
+
+
+Teacher ID: 2
+Name: Fatima Zahra
+Password: Fatima Zahra$123
+Gender: Female
+DOB: 12-03-1990
+Marital Status:Married
+Email :fatima.zahra@email.com
+Date of Joining: 12-03-1990
+Contact: 0312345678
+Address: DHA Phase 5, Karachi
+Salary: 45000.0
+Skills: Teaching, Research, Data Analysis
+Experience: 8 years
+Highest Qualification: PhD in Mathematics
+Specialization: Data Science
+
+
+Teacher ID: 3
+Name: Ayesha Khurshid
+Password: Ayesha Khurshid$123
+Gender: Female
+DOB: 22-11-1987
+Marital Status:Married
+Email :ayesha.khurshid@email.com
+Date of Joining: 22-11-1987
+Contact: 0305123456
+Address: Clifton Block 4, Karachi
+Salary: 48000.0
+Skills: Teaching, Content Writing, Graphic Design
+Experience: 7 years
+Highest Qualification: Masters in English Literature
+Specialization: Literature and Creative Writing
+
+
+Teacher ID: 4
+Name: Muhammad Usman
+Password: Muhammad Usman$123
+Gender: Male
+DOB: 01-09-1986
+Marital Status:Married
+Email :usman.muhammad@email.com
+Date of Joining: 01-09-1986
+Contact: 0345123456
+Address: Korangi No. 3, Karachi
+Salary: 60000.0
+Skills: Management, Leadership, Teaching
+Experience: 9 years
+Highest Qualification: MBA (Master of Business Administration)
+Specialization: Business Management
+
+
+Teacher ID: 5
+Name: uzair
+Password: uzair$123
+Gender: male
+DOB: 25-02-2025
+Marital Status:single
+Email :syedabduluzair@gmail.com
+Date of Joining: 25-02-2025
+Contact: 03352752985
+Address: karachi
+Salary: 100000.0
+Skills: programming
+Experience: 2
+Highest Qualification: under graduate
+Specialization: java
+
+
